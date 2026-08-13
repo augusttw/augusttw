@@ -28,10 +28,10 @@ Backend Systems · Networking · Distributed Systems · Developer Tools · Linux
 
 ### 🧠 About Me
 
-* 🔭 I work with **Go, Rust and Python**
+* 🔭 I primarily work with Go and Rust, building backend systems, developer tools, and low-level software
 * 📚 I'm currently exploring distributed systems, networking, observability, and performance engineering.
-* 🛡️ I build security tooling — like [v4-hooks-analyzer](https://github.com/augusttw/v4-hooks-analyzer), a CLI security analyzer for Uniswap V4 hook contracts
-* ⚡ In my free time I write automation tooling and break things to learn
+* 🛡️ I built v4-hooks-analyzer, a Rust CLI for analyzing Uniswap V4 hook contracts
+* ⚡ In my free time I build tools, automate things, and experiment with systems.
 
 ### 🛠️ Languages and Tools
 

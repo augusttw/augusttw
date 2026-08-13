@@ -21,7 +21,7 @@ Building backend systems and developer tools with Go & Rust.
 $ whoami
 augustto — software engineer from Brazil
 $ cat ~/interests
-low-level linux · kernel hardening · automation tooling · breaking things to learn
+Backend Systems · Networking · Distributed Systems · Developer Tools · Linux
 ```
 
 ---
@@ -29,7 +29,7 @@ low-level linux · kernel hardening · automation tooling · breaking things to 
 ### 🧠 About Me
 
 * 🔭 I work with **Go, Rust and Python**
-* 📚 I'm currently diving deeper into **low-level Linux and kernel hardening**
+* 📚 I'm currently exploring distributed systems, networking, observability, and performance engineering.
 * 🛡️ I build security tooling — like [v4-hooks-analyzer](https://github.com/augusttw/v4-hooks-analyzer), a CLI security analyzer for Uniswap V4 hook contracts
 * ⚡ In my free time I write automation tooling and break things to learn
 

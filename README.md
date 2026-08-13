@@ -15,8 +15,7 @@
 
 ---
 
-I'm passionate about low-level systems, security, and automation.
-Here you'll find my experiments with Rust, Go, Python, and everything I break (and fix) while learning how it works under the hood :)
+Building backend systems and developer tools with Go & Rust.
 
 ```bash
 $ whoami

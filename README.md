@@ -43,13 +43,6 @@ low-level linux · kernel hardening · automation tooling · breaking things to 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/augusttw/augusttw/main/github-metrics.svg" height="160" />
-  <img src="https://raw.githubusercontent.com/augusttw/augusttw/main/github-metrics-langs.svg" height="160" />
-</div>
-
 ---
 
 *Keep breaking. Keep building. One commit at a time.* 🟩

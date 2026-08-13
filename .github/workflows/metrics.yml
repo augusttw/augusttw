@@ -1,0 +1,39 @@
+name: Metrics
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stats card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: augusttw
+          base: header, activity, community, repositories, metadata
+          template: classic
+          config_timezone: America/Sao_Paulo
+
+      - name: Top languages card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: augusttw
+          base: ""
+          template: classic
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used

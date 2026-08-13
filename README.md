@@ -46,8 +46,8 @@ low-level linux · kernel hardening · automation tooling · breaking things to 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=augusttw&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusttw&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" />
+  <img src="https://raw.githubusercontent.com/augusttw/augusttw/main/github-metrics.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/augusttw/augusttw/main/github-metrics-langs.svg" height="160" />
 </div>
 
 ---

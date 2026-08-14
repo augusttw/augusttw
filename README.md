@@ -10,7 +10,7 @@
 <h1 align="center">Hello, I'm Augusto 👋</h1>
 
 <div align="center">
-  <em>Software Engineer from Brazil 🇧🇷 • Go & Rust • Breaking things to learn</em>
+  <em>Software Engineer from Brazil 🇧🇷</em>
 </div>
 
 ---

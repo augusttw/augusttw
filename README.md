@@ -28,10 +28,9 @@ Backend Systems · Networking · Distributed Systems · Developer Tools · Linux
 
 ### 🧠 About Me
 
-* 🔭 I primarily work with Go and Rust, building backend systems, developer tools, and low-level software
-* 📚 I'm currently exploring distributed systems, networking, observability, and performance engineering.
-* 🛠️ I build systems & developer tooling — observability, networking, real-time infrastructure and security, mostly in Go & Rust.
-* ⚡ In my free time I build tools, automate things, and experiment with systems.
+* 🔭 I primarily work with Go and Rust, building backend systems, developer tools, and low-level software.
+* 📚 I'm currently exploring distributed systems, performance engineering, and systems design.
+* ⚡ In my free time, I build tools, automate things, and experiment with systems.
 
 ### 🛠️ Languages and Tools
 

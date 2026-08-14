@@ -19,9 +19,9 @@ Building backend systems and developer tools with Go & Rust.
 
 ```bash
 $ whoami
-augustto — software engineer from Brazil
+augustto
 $ cat ~/interests
-Backend Systems · Networking · Distributed Systems · Developer Tools · Linux
+Networking · Distributed Systems · Linux · Observability · Performance
 ```
 
 ---
